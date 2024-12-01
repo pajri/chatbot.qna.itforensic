@@ -1,0 +1,20 @@
+This is article that hou should refer to: 
+
+Title: Definition and basic concepts.
+Content:
+IT Forensics is a branch of science that combines principles of computer science and law to collect, preserve, and analyze digital evidence. This digital evidence can be found on various devices such as computers, smartphones, servers, and IoT devices. The primary goal of IT Forensics is to uncover evidence that can be used in legal processes, investigations, or problem-solving.
+
+In simpler terms, IT Forensics is like a digital detective searching for clues in the cyber world. These clues can include emails, files, browsing history, activity logs, and other data stored on digital devices.
+
+Brief History of IT Forensics
+The origins of IT Forensics can be traced back to the early days of computers when researchers began to recognize the potential use of computers as tools for committing crimes. However, IT Forensics as an independent discipline only began to grow significantly in the late 20th century with the increasing use of computers and the internet.
+
+Several key events that spurred the development of IT Forensics include:
+
+Criminal cases: The growing number of fraud, identity theft, and other cyber crimes involving digital evidence.
+Technological advancements: The emergence of various new digital devices and the increasing complexity of computer systems.
+Need for standards: The demand for standardized procedures in the collection and analysis of digital evidence.
+Differences from Related Fields
+Cybersecurity: Cybersecurity focuses more on the prevention and protection of information systems from cyber attacks. IT Forensics, on the other hand, focuses on investigation after an attack or security incident has occurred.
+Hacking: Hacking is the act of breaching computer systems without permission. IT Forensics uses techniques similar to hackers but with a different purpose: to uncover evidence of a crime.
+Digital Investigation: This term is often used synonymously with IT Forensics. However, digital investigation has a broader scope, including investigations involving non-computer devices like mobile phones and IoT devices.
