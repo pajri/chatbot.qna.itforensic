@@ -32,18 +32,6 @@ function handleReady() {
 // Process incoming messages
 async function handleMessage(msg) {
     try {
-        if (msg.body === 'Hallo') {
-            return msg.reply('Hallo my name is Zootopia');
-        }
-
-        if (msg.body === '!ping') {
-            return msg.reply('pong');
-        }
-
-        if (msg.body.startsWith('!echo ')) {
-            return msg.reply(msg.body.slice(6));
-        }
-
         if (msg.body === '!mediainfo' && msg.hasMedia) {
             return handleMediaInfo(msg);
         }
