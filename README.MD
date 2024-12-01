@@ -50,8 +50,10 @@ The chatbot is currently limited to a single article for faster testing and deve
     
     ![alt](md_images/normal%20flow%202%20proof.png)
 
-2. Ask question about IT Forensic but the answer is not available in the article. 
+2. Ask question about IT Forensic but the answer is not available in the article.
+   <br/> This type of question will be answered with recommendation
     ![alt](md_images/about%20it%20forensic.png)
 
 3. Ask question not about IT Forensic.
+   <br/> This type of question will be answered with message that the chatbot can only answer question about IT Forensics
     ![alt](md_images/not%20about%20it%20forensic.png)
