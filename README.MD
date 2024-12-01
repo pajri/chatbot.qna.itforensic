@@ -2,12 +2,24 @@
 
 ## Run App
 ### Run Command Line
-1.	Uncomment method run() in history.js.
-2.	Run node history.js
+1.	Uncomment function `run()` in `history.js`.
+    
+    ![alt](md_images/uncomment%20run.png)
+
+2.	Run this command
+    ```bash
+    node history.js
+    ```
 
 ### Run Whatsapp
-1.	Comment function run in history.js
-2.	Run node main.js
+1.	Comment function `run` in `history.js`
+
+    ![alt](md_images/comment%20run.png)
+
+2.	Run this command
+    ```
+    node main.js
+    ```
 
 ## Prompt Engineering
 The prompt design is available here: [data/rule.txt](data/rule.txt)
