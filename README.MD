@@ -1,7 +1,9 @@
 # Chatbot QnA IT Forensic
 
 ## Run App
-Choose one of mode that you want to run. Run Command Line for interaction with chatbot in CLI. Run Whatsapp for interaction with chatbot in WhatsApp.
+Choose one of mode that you want to run. 
+- Run Command Line for interaction with chatbot in CLI. 
+- Run Whatsapp for interaction with chatbot in WhatsApp.
 
 ### Run Command Line
 1.	Uncomment function `run()` in `history.js`.
